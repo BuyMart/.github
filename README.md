@@ -1,6 +1,3 @@
-Certainly! Here’s a consolidated and detailed explanation of all the phases for developing the **BuyMart** online shopping microservices application, which you can add directly to your GitHub project README for clarity and guidance:
-
----
 
 # **BuyMart - Online Shopping Application**
 
