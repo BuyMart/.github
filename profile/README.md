@@ -34,3 +34,6 @@ To run the BuyMart platform locally, follow these steps:
    ```bash
    git clone https://github.com/your-org-name/buymart.git
    cd buymart
+
+   **For Detailed Project Development phases checkout readme file in ./github/readme file**
+   https://github.com/BuyMart/.github/blob/main/README.md
